@@ -1,5 +1,22 @@
 # Changelog
 
+## [1.3.0](https://www.github.com/googleapis/java-secretmanager/compare/v1.2.9...v1.3.0) (2021-02-16)
+
+
+### Features
+
+* added expire_time and ttl fields to Secret ([#355](https://www.github.com/googleapis/java-secretmanager/issues/355)) ([0dc2188](https://www.github.com/googleapis/java-secretmanager/commit/0dc2188e1e9b79f6ddbd5e509480e6fedfc7128e))
+
+
+### Bug Fixes
+
+* update repo name ([#368](https://www.github.com/googleapis/java-secretmanager/issues/368)) ([77ecec0](https://www.github.com/googleapis/java-secretmanager/commit/77ecec01eb733b0b1871591dade7743d9f35bb29))
+
+
+### Documentation
+
+* generate sample code in the Java microgenerator ([#370](https://www.github.com/googleapis/java-secretmanager/issues/370)) ([092bc28](https://www.github.com/googleapis/java-secretmanager/commit/092bc28f3991e4894d530e02dc408ce905134310))
+
 ### [1.2.9](https://www.github.com/googleapis/java-secretmanager/compare/v1.2.8...v1.2.9) (2021-01-14)
 
 
